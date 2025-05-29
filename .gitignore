@@ -1,3 +1,8 @@
+# Project
+0.26.0
+results/
+
+## Python default
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
